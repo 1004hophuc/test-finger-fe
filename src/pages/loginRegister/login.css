@@ -1,0 +1,21 @@
+.login-form {
+    max-width: 300px;
+  }
+  .login-form-forgot {
+    float: right;
+  }
+  .login-form-button {
+    width: 100%;
+  }
+
+  .modalBackground {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(200, 200, 200, 0.6);
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+  
